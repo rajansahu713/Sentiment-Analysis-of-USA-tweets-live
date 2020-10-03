@@ -1,6 +1,5 @@
 # Sentiment-Analysis-of-USA-tweets-live
-
- ![alt text](https://github.com/rajashah33/Mushroom-Classifying-App/blob/master/Screenshots/Screenshot (1003).png)
+![](Screenshot/Screenshot%20(1003).png)
 
 
 Requirement
